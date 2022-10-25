@@ -10,13 +10,9 @@ mail.ru captcha датасет , порядка ~30000 картинок. Исп�
 Решатель капчи mail.ru , для примера  
 
 import requests  
-
 import base64  
-
 solve/solve_mail.ru.py  
-
 скачивает и сохраняет 1 капчу, и решает ее.  
-
 Capthca = 8kocak  
 
 
@@ -30,13 +26,8 @@ The automatic solution of this captcha is located in a nearby repository. (colle
 
 For example:  
 
-
 import requests  
-
 import base64  
-
 solve/solve_mail.ru.py  
-
 Download and save 1 captcha from mail.ru and solve it.  
-
 Capthca = 8kocak
